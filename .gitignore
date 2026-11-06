@@ -1,0 +1,14 @@
+# Python build output
+__pycache__/
+*.pyc
+
+# Local virtual environment
+.venv/
+venv/
+
+# Secrets: never commit these
+.env
+.env.*
+
+# macOS
+.DS_Store
