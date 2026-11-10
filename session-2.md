@@ -1,0 +1,1 @@
+The agent does the work, thinking with a Bedrock model, while AgentCore gives it a safe place to run, remember and use tools.
